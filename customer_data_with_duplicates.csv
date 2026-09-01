@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Email,City,PurchaseAmount
+1001,John Smith,john.smith@gmail.com,New York,250
+1002,Emma Johnson,emma.johnson@gmail.com,Chicago,180
+1003,Michael Brown,michael.brown@gmail.com,Dallas,320
+1004,Olivia Davis,olivia.davis@gmail.com,Seattle,150
+1005,William Wilson,william.wilson@gmail.com,Miami,275
+1006,Sophia Taylor,sophia.taylor@gmail.com,Boston,220
+1002,Emma Johnson,emma.johnson@gmail.com,Chicago,180
+1007,James Anderson,james.anderson@gmail.com,Atlanta,410
+1008,Isabella Thomas,isabella.thomas@gmail.com,Denver,195
+1009,Benjamin Jackson,benjamin.jackson@gmail.com,Phoenix,340
+1005,William Wilson,william.wilson@gmail.com,Miami,275
+1010,Mia White,mia.white@gmail.com,San Diego,125
+1011,Lucas Harris,lucas.harris@gmail.com,Houston,290
+1012,Charlotte Martin,charlotte.martin@gmail.com,Austin,365
+1003,Michael Brown,michael.brown@gmail.com,Dallas,320
+1013,Ethan Thompson,ethan.thompson@gmail.com,Orlando,245
+1014,Amelia Garcia,amelia.garcia@gmail.com,Las Vegas,185
+1015,Henry Martinez,henry.martinez@gmail.com,Portland,275
+1011,Lucas Harris,lucas.harris@gmail.com,Houston,290
+1016,Evelyn Robinson,evelyn.robinson@gmail.com,San Jose,310
